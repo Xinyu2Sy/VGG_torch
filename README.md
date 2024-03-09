@@ -1,0 +1,1 @@
+This project implements a flower classification model using PyTorch, a popular deep learning framework. The model is trained on a dataset of flower images and can classify new, unseen flower images into different categories
